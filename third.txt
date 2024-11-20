@@ -9,3 +9,5 @@ bypass rule failed
 auto-merge feature testing
 
 auto-merge is successfull or not
+
+auto-merge test3
