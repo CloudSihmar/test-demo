@@ -4,3 +4,5 @@ feature8
 
 code44
 code66
+
+bypass rule failed
